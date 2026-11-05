@@ -13,3 +13,7 @@ Mapeamento_servidores/
 *.dump
 *.sql.gz
 *.backup
+
+# Saídas de coleta dos servidores (podem conter nomes de bases/IPs)
+coletas/
+coleta_*.txt
