@@ -1,0 +1,15 @@
+# Planilhas de mapeamento (contêm IPs internos e custos)
+Mapeamento_servidores/
+*.xlsx
+*.xls
+~$*
+
+# Credenciais / variáveis de ambiente
+.env
+*.pem
+*.key
+
+# Dumps e arquivos de backup
+*.dump
+*.sql.gz
+*.backup
